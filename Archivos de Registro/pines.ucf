@@ -1,0 +1,67 @@
+// Leds NEXYS
+
+net dat2<0> loc = J14;
+net dat2<1> loc = J15;
+net dat2<2> loc = K15;
+net dat2<3> loc = K14;
+net dat2<4> loc = E17;
+net dat2<5> loc = P15;
+net dat2<6> loc = F4;
+net dat2<7> loc = R4;
+
+// Leds PUERTO C
+
+net dat1<0> loc = G15;
+net dat1<1> loc = J16;
+net dat1<2> loc = G13;
+net dat1<3> loc = H16;
+net dat1<4> loc = H15;
+net dat1<5> loc = F14;
+net dat1<6> loc = G16;
+net dat1<7> loc = J12;
+
+// Datos de escritura NEXYS
+
+net wdat<0> loc = G18;
+net wdat<1> loc = H18;
+net wdat<2> loc = K18;
+net wdat<3> loc = K17;
+net wdat<4> loc = L14;
+net wdat<5> loc = L13;
+net wdat<6> loc = N17;
+net wdat<7> loc = R17;
+
+// Datos de direccion de escritura write Reg y lectura reg1 y reg2 PUERTO A
+
+net reg1<0> loc = L15;
+net reg1<1> loc = K12;
+net reg1<2> loc = L17;
+net reg1<3> loc = M15;
+
+net reg2<0> loc = K13;
+net reg2<1> loc = L16;
+net reg2<2> loc = M14;
+net reg2<3> loc = M16;
+
+// PUERTO B
+
+net regw<0> loc = M13;
+net regw<1> loc = R18;
+net regw<2> loc = R15;
+net regw<3> loc = T17;
+
+PUERTO B
+
+net shamt<0> loc = P17;
+net shamt<1> loc = R16;
+net shamt<2> loc = T18;
+
+// NEXYS
+
+net clk loc = B8;
+
+net clr loc = H13;
+net wr loc = E18;
+net she loc = D18;
+net dir loc = B18;
+

@@ -1,0 +1,32 @@
+NET "dir[4]" LOC = L15;
+NET "dir[3]" LOC = K12;
+NET "dir[2]" LOC = L17;
+NET "dir[1]" LOC = M15;
+NET "dir[0]" LOC = K13;
+
+NET "di[7]" LOC = R17;
+NET "di[6]" LOC = N17;
+NET "di[5]" LOC = L13;
+NET "di[4]" LOC = L14;
+NET "di[3]" LOC = K17;
+NET "di[2]" LOC = K18;
+NET "di[1]" LOC = H18;
+NET "di[0]" LOC = G18;
+
+NET "do[7]" LOC = L18;
+NET "do[6]" LOC = F18;
+NET "do[5]" LOC = D17;
+NET "do[4]" LOC = D16;
+NET "do[3]" LOC = G14;
+NET "do[2]" LOC = J17;
+NET "do[1]" LOC = H14;
+NET "do[0]" LOC = C17;
+
+NET "hd[3]" LOC = F17;
+NET "hd[2]" LOC = H17;
+NET "hd[1]" LOC = C18;
+NET "hd[0]" LOC = F15;
+
+NET "clk" LOC = B8;
+NET "cs" LOC = H13;
+NET "rw" LOC = E18;

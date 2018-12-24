@@ -1,0 +1,36 @@
+net a<0> loc = "G18";
+net a<1> loc = "H18";
+net a<2> loc = "K18";
+net a<3> loc = "K17";
+net a<4> loc = "L14";
+net a<5> loc = "L13";
+net a<6> loc = "N17";
+net a<7> loc = "R17";
+
+net b<0> loc = "L15";
+net b<1> loc = "K12";
+net b<2> loc = "L17";
+net b<3> loc = "M15";
+net b<4> loc = "K13";
+net b<5> loc = "L16";
+net b<6> loc = "M14";
+net b<7> loc = "M16";
+
+net op<0> loc = "B18";
+net op<1> loc = "D18";
+net op<2> loc = "E18";
+net op<3> loc = "H13";
+
+net "x<0>" loc = "J14";
+net "x<1>" loc = "J15";
+net "x<2>" loc = "K15";
+net "x<3>" loc = "K14";
+net "x<4>" loc = "E17";
+net "x<5>" loc = "P15";
+net "x<6>" loc = "F4";
+net "x<7>" loc = "R4";
+
+net Bandera<0> loc = "M13";
+net Bandera<1> loc = "R18";
+net Bandera<2> loc = "R15";
+net Bandera<3> loc = "T17";

@@ -1,0 +1,14 @@
+net clk loc = B8;
+
+net dato<0> loc = M13; // Rs
+net dato<1> loc = R18; // En
+net dato<2> loc = L15;
+net dato<3> loc = K12;
+net dato<4> loc = L17;
+net dato<5> loc = M15;
+net dato<6> loc = K13;
+net dato<7> loc = L16; 
+net dato<8> loc = M14;  
+net dato<9> loc = M16; 
+
+net en loc = G18;

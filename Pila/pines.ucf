@@ -1,0 +1,24 @@
+net dat<0> loc = R17;
+net dat<1> loc = N17;
+net dat<2> loc = L13;
+net dat<3> loc = L14;
+net dat<4> loc = K17;
+net dat<5> loc = K18;
+net dat<6> loc = H18;
+net dat<7> loc = G18;
+
+net q<0> loc = R4;
+net q<1> loc = F4;
+net q<2> loc = T15;
+net q<3> loc = E17;
+net q<4> loc = K14;
+net q<5> loc = K15;
+net q<6> loc = J15;
+net q<7> loc = J14;
+
+net clkin loc = B8;
+net clr loc = H13;
+net up loc = E18;
+net dw loc = D18;
+net wpc loc = B18;
+
